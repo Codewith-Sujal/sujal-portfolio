@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 
 ## About
 
-I am Sujal Kumar, a B.Tech Computer Science student at Amity University Jharkhand passionate about:
+I am Sujal Kumar, a B.Tech Computer Science student at Amity University Jharkhand passionate about :
 
 - Web Development
 - Data Structures & Algorithms
