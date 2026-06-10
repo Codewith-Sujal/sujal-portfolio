@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website.
 
-## About
+## About:
 
 I am Sujal Kumar, a B.Tech Computer Science student at Amity University Jharkhand passionate about:
 
@@ -13,7 +13,7 @@ I am Sujal Kumar, a B.Tech Computer Science student at Amity University Jharkhan
 - Open Source
 - Building real-world projects
 
-## Features
+## Features:
 
 - Responsive design
 - Interactive UI and animations
@@ -22,7 +22,7 @@ I am Sujal Kumar, a B.Tech Computer Science student at Amity University Jharkhan
 - Experience timeline
 - Contact form powered by EmailJS
 
-## Technologies Used
+## Technologies Used:
 
 - HTML5
 - CSS3
