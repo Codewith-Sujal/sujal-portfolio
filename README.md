@@ -28,7 +28,7 @@ I am Sujal Kumar, a B.Tech Computer Science student at Amity University Jharkhan
 - CSS3
 - JavaScript
 - EmailJS
-
+  
 ## Live Website
 
 Coming Soon 🚀
